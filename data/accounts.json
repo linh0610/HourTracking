@@ -1,0 +1,16 @@
+{"accounts": [
+    {
+        "password": "1234",
+        "shift": "2024-04-11 Start: 17:11, End: 17:11",
+        "wagePerHour": 12,
+        "hoursWorked": 0,
+        "username": "lin"
+    },
+    {
+        "password": "1234",
+        "shift": "2024-04-18 Start: 21:17, End: 21:17",
+        "wagePerHour": 12,
+        "hoursWorked": 0,
+        "username": "linh"
+    }
+]}

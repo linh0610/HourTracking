@@ -1,0 +1,14 @@
+{"accounts": [
+    {
+        "password": "password1",
+        "wagePerHour": 0,
+        "hoursWorked": 0,
+        "username": "username1"
+    },
+    {
+        "password": "password2",
+        "wagePerHour": 0,
+        "hoursWorked": 0,
+        "username": "username2"
+    }
+]}
